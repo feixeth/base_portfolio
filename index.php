@@ -14,7 +14,7 @@
 </head>
 <body>
         <!-- header start here -->
-        <?php
+        <?php/*
 
         if(isset($message)){
             foreach($message as $message){
@@ -25,7 +25,7 @@
       ';
             }
         }
-    ?>
+    */?>
     <header class="header">
 
         <div class="fas fa-bars" id="menu-btn"></div>
