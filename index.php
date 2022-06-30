@@ -20,13 +20,11 @@
             foreach($message as $message){
                 echo '
       <div class="message" data-aos="fade-right">
-         <span>'.$message.'</span>
-         <i class="fas fa-times" onclick="this.parentElement.remove();"></i>
+         <span>'.$message.'</span> <i class="fas fa-times" onclick="this.parentElement.remove();"></i>
       </div>
       ';
             }
         }
-
     ?>
     <header class="header">
 
@@ -42,10 +40,10 @@
         </nav>
 
         <div class="follow">
-            <a href="" class="fab fa-facebook-f"></a>
-            <a href="" class="fab fa-twitter"></a>
-            <a href="" class="fab fa-linkedin"></a>
-            <a href="" class="fab fa-github"></a>
+            <a href="#" class="fab fa-facebook-f"></a>
+            <a href="https://twitter.com/FelixDevCode" class="fab fa-twitter"></a>
+            <a href="https://www.linkedin.com/feed/" class="fab fa-linkedin"></a>
+            <a href="https://github.com/feixeth/" class="fab fa-github"></a>
         </div>
 
     </header>
@@ -101,8 +99,9 @@
                     <div class="bar" data-aos="fade-right"> <h3><span>Javascript </span><span>55%</span></h3></div>
                     <div class="bar" data-aos="fade-left"> <h3><span>Bootstrap </span><span>60%</span></h3></div>
                     <div class="bar" data-aos="fade-right"> <h3><span>PHP </span><span>40%</span></h3></div>
-                    <div class="bar" data-aos="fade-left"> <h3><span>MySQL </span><span>35%</span></h3></div>
+                    <div class="bar" data-aos="fade-left"> <h3><span>SQL </span><span>35%</span></h3></div>
                     <div class="bar" data-aos="fade-right"> <h3><span>NoSQL </span><span>25%</span></h3></div>
+                    <div class="bar" data-aos="fade-right"> <h3><span>SASS </span><span>25%</span></h3></div>
                     <div class="bar" data-aos="fade-left"> <h3><span>Symfony </span><span>15%</span></h3></div>
                     <div class="bar" data-aos="fade-right"> <h3><span>PHPUnit </span><span>15%</span></h3></div>
                 </div>
@@ -132,7 +131,7 @@
 
                         <div class="box">
                             <span>( 2022 - Actually )</span>
-                            <h3>Alternance CDA - Simplon</h3>
+                            <h3>Alternance Developpeur Web</h3>
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci animi consectetur, culpa cupiditate deserunt dicta dolore doloremque ea facilis iste nemo nihil omnis, quae rem repellat sint, sit temporibus vel!</p>
                         </div>
                         <div class="box">
@@ -165,13 +164,13 @@
                     </div>
 
                     <div class="box">
-                        <img src="" alt=""  data-aos="zoom-in">
+                        <img src="./assets/selecteur.png" alt=""  data-aos="zoom-in">
                         <h3>Selecteur photo HTML/Javascript</h3>
                         <span><a href="#github">Lien GitHub</a></span>
                     </div>
 
                     <div class="box">
-                        <img src="" alt=""  data-aos="zoom-in">
+                        <img src="./assets/chifoumi.png" alt=""  data-aos="zoom-in">
                         <h3>Chifoumi</h3>
                         <span><a href="#github">Lien GitHub</a></span>
                     </div>
@@ -209,7 +208,7 @@
                 <div class="box">
                     <i class="fas fa-map-marker-alt"></i>
                     <h3>Adresse</h3>
-                    <p>14, Route de la chapelle, 38760, Varces</p>
+                    <p>Grenoble, 38000, FRANCE</p>
                 </div>
             </div>
         </section>
