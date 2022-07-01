@@ -142,13 +142,13 @@
                     <div class="box">
                         <img src="./assets/pokemonlike.png" alt="minigamescreen" data-aos="zoom-in">
                         <h3>Mini Pokemon HTML/Javascript</h3>
-                        <span><a href="#github">Lien GitHub</a></span>
+                        <span><a href="https://github.com/feixeth/pokemon_like_js">Lien GitHub</a></span>
                     </div>
 
                     <div class="box">
                         <img src="./assets/cassebrique.png" alt="minigamescreen" data-aos="zoom-in">
                         <h3>Casse-brique HTML/Javascript</h3>
-                        <span><a href="#github">Lien GitHub</a></span>
+                        <span><a href="https://github.com/feixeth/bricks_breaker">Lien GitHub</a></span>
                     </div>
 
                     <div class="box">
