@@ -14,18 +14,6 @@
 </head>
 <body>
         <!-- header start here -->
-        <?php/*
-
-        if(isset($message)){
-            foreach($message as $message){
-                echo '
-      <div class="message" data-aos="fade-right">
-         <span>'.$message.'</span> <i class="fas fa-times" onclick="this.parentElement.remove();"></i>
-      </div>
-      ';
-            }
-        }
-    */?>
     <header class="header">
 
         <div class="fas fa-bars" id="menu-btn"></div>
